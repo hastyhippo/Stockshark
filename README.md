@@ -1,4 +1,4 @@
-# Stockshark
+# Stockshark Chess Engine
 ChessAI 
 First started in 2021, on break since 2022. 
 Can serach to a depth of 6 an average, with a branching factor of roughly 19 in the midgame
